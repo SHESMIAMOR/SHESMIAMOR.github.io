@@ -144,3 +144,91 @@ These streets were coated with a **light-grey reflective surface**, which had al
 One street in the **Winnetka neighbourhood** of San Fernando Valley now appears as a pale crescent — the **only cool spot on an otherwise red thermal image** seen from the **International Space Station**.
 <img width="1307" height="796" alt="image" src="https://github.com/user-attachments/assets/c66a4cfa-6146-4837-8acf-8a59423df23c" />
 
+## Q15
+
+### 概述
+题干：询问 **科学家预测气候变化影响还会持续多久**。
+
+### 对应段落
+**A 段**
+
+> we would continue to see the impact of the CO2 already released since industrial times, with scientists forecasting that global warming would continue for around **40 years**.
+
+### 答案
+A
+
+### 解题思路
+本题考查关于 **“气候变化影响持续时间的预测”**。
+
+在 A 段中，作者指出：
+
+即使 **明天停止所有 CO₂ 排放**，由于工业时代以来已经排放的二氧化碳仍然在发挥作用，因此全球变暖的影响不会立即停止。
+
+文中明确给出了科学家的预测：
+
+**全球变暖还会持续约 40 年（around 40 years）**
+
+这正好对应题干中的：
+
+- prediction（预测）
+- 时间长度
+
+因此答案为 **A 段**。
+
+### 避坑提醒
+不要被其他段落中的时间信息干扰，例如：
+
+- **B 段**提到：20、30、40 年后可能需要再次调整基础设施  
+- **D 段**提到：2006 年开始研究
+
+这些时间都不是关于 **气候变化影响持续多久的科学预测**。
+
+只有 **A 段**是在讨论全球变暖持续时间的宏观预测。
+
+---
+
+## Q16
+
+### 概述
+题干：询问 **某种解决方案具有较高性价比（cost-effective）**。
+
+### 对应段落
+**D 段**
+
+> It's much cheaper than permanently elevating houses, English explains – about **a third of what it would cost** to completely replace a building's foundations.
+
+### 答案
+D
+
+### 解题思路
+本题要求找到 **解释某种解决方案为何具有成本优势** 的段落。
+
+D 段介绍了 **Buoyant Foundation Project** 开发的 **浮动房屋（amphibious houses）**。
+
+文中明确指出：
+
+这种方案
+
+- **much cheaper**（便宜得多）
+- 成本只有 **彻底更换地基费用的三分之一**
+
+即：
+
+> about a third of what it would cost
+
+通过 **具体成本比例对比**，说明了这种方案的经济优势。
+
+因此，该段正好解释了该方案 **为什么 cost-effective**。
+
+### 避坑提醒
+很多考生在找 “cost-effective” 时只会寻找：
+
+- cheap  
+- money  
+- cost
+
+但题目要求的是 **explanation（解释）**。
+
+D 段不仅说明 **便宜**，还给出了 **成本对比和比例**，完整解释了为什么该方案具有成本优势。
+
+因此答案为 **D 段**。
