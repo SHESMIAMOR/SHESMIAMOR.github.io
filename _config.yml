@@ -1,0 +1,4 @@
+title: "SHESMIAMOR 科研学习博客"
+description: "科研笔记｜文献阅读｜实验方法｜数据分析"
+theme: minima
+permalink: /:categories/:year/:month/:day/:title/
