@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 首页
+title: Home
 ---
 
-Welcome to my ILETS Learning Blog!
+Welcome to my IELTS Learning Blog!
