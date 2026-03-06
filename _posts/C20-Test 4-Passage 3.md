@@ -504,3 +504,230 @@ G段：
 
 填空必须保持 **原文复数形式 foxes**。
 
+---
+
+
+```
+# IELTS Reading Strategy  
+## Matching Information（段落匹配题）
+Matching Information 是 IELTS 阅读中 **难度较高的题型之一**。
+
+题目形式：
+> Which paragraph contains the following information?
+特点：
+- 答案可能重复
+- 信息不一定是段落主旨
+- 通常是 **细节信息**
+---
+
+# 一、核心原则
+不要通过 **理解全文主题** 来找答案。
+正确方法：
+```
+关键词 → 定位句 → 确定段落
+```
+题目问的是 **信息点（information）**，不是 **段落主题（main idea）**。
+---
+
+# 二、标准解题步骤
+## Step 1：找唯一关键词
+例如：
+### Q27
+题干：
+```
+an example of how one predator has been protected
+```
+关键词：
+```
+predator
+protected
+example
+```
+文章中对应：
+```
+cheetahs
+```
+因此定位到 **D段**。
+---
+
+### Q28
+题干：
+```
+an optimistic suggestion
+positive developments
+```
+关键词：
+```
+optimistic
+future
+positive
+```
+文章出现：
+```
+bright future
+```
+因此定位 **G段**。
+---
+
+# 三、优先寻找的关键词类型
+## 1 具体名词（最强定位）
+例如：
+```
+cheetahs
+wolves
+foxes
+jackals
+```
+这种词几乎可以 **100%定位段落**。
+---
+
+## 2 人名 / 学者
+例如：
+```
+Silvia Ribeiro
+van Bommel
+Chris Johnson
+Julie Young
+Bethany Smith
+```
+如果题干出现：
+```
+different academics
+researchers
+scientists
+```
+通常在 **研究段落**。
+---
+## 3 特殊短语
+例如：
+```
+bright future
+unexpected benefits
+landscape of fear
+```
+这种短语通常 **全文只出现一次**。
+---
+# 四、错题分析
+你的错误：
+| Question | 正确 | 我的答案 | 原因 |
+|--------|------|------|------|
+| 29 | B | C | 找了研究结果而不是具体方法 |
+| 30 | C | F | 没识别 multiple academics |
+---
+## Q29
+题干：
+```
+methods used by livestock guard dogs
+```
+正确段落：**B**
+原因：
+B段描述具体行为：
+```
+barking loudly
+chase away predators
+```
+这是 **method（方法）**。
+而 C段只是讨论：
+```
+effectiveness
+research
+```
+---
+## Q30
+题干：
+```
+claims by different academics
+```
+关键词：
+```
+different academics
+```
+C段出现：
+```
+Silvia Ribeiro
+Linda van Bommel
+Chris Johnson
+```
+多个学者，因此答案 **C段**。
+---
+# 五、文章结构分析
+这篇文章的段落结构：
+```
+A  背景介绍
+B  护卫犬如何工作
+C  学术研究证明效果
+D  保护捕食者案例
+E  研究争议
+F  生态问题
+G  未来发展
+```
+例如：
+题干出现：
+```
+future
+optimistic
+```
+几乎必然在 **G段**。
+---
+
+# 六、时间控制
+建议时间：
+```
+5题 ≈ 4分钟
+```
+做题流程：
+```
+1分钟 画关键词
+2分钟 定位段落
+1分钟 检查
+```
+如果找不到：
+```
+先跳过
+```
+不要卡题。
+---
+
+# 七、快速定位口诀
+```
+动物词 → 找段落
+人名 → 找研究段
+future → 找结尾段
+```
+不要寻找：
+```
+主题
+感觉
+总结
+```
+只找 **具体信息**。
+---
+
+# 八、训练方法
+每天练习：
+```
+5篇文章
+只做 Matching Information
+```
+大约 **10篇后会明显提速**。
+因为你会熟悉：
+```
+动物词 = 定位
+人名 = 研究
+future = 结尾
+---
+
+# 九、核心总结
+Matching Information 的本质：
+```
+找关键词
+而不是理解全文
+```
+真正顺序：
+关键词 → 定位 → 段落
+
+```
+而不是：
+读文章 → 找感觉
+
+
