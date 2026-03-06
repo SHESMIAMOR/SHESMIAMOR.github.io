@@ -1,0 +1,506 @@
+C20-Test 4-Passage 3
+# A new role for livestock guard dogs
+
+*Livestock guard dogs, traditionally used to protect farm animals from predators, are now being used to protect the predators themselves.*
+
+---
+
+## A
+
+For thousands of years, livestock guard dogs worked alongside shepherds to protect their sheep, goats and cattle from predators such as wolves and bears. 
+
+But in the 19th and 20th centuries, when such predators were largely exterminated, most guard dogs lost their jobs. 
+
+In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again. 
+
+As a result, farmers once more need to protect their livestock, and guard dogs are enjoying an unexpected revival.
+
+---
+
+## B
+
+Today there are around 50 breeds of guard dogs on duty in various parts of the world. **[Q31]**
+
+These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog's family. **[Q29]**
+
+The dogs will place themselves between the livestock and any threat, barking loudly. 
+
+If necessary, they will chase away predators, but often their mere presence is sufficient. **[Q36]**
+
+> "Their initial training is to make them understand that livestock is going to be their life," says Dan Macon, a shepherd with three guard dogs.  
+
+> "A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog."
+
+---
+
+## C
+
+**[Q30]**
+
+The evidence indicates that guard dogs are highly effective. 
+
+For example, in Portugal, biologist Silvia Ribeiro has found that more than **90% of the farmers** participating in a programme to train and use guard dogs to protect their herds against attack from wolves rate the performance of the dogs as **very good or excellent**.
+
+In a study carried out in Australia by Linda van Bommel and Chris Johnson at the University of Tasmania, more than **65% of herders** reported that predation stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks. **[Q35]**
+
+> "If they are managed and used properly, livestock guard dogs are the most efficient control method that we have in terms of the amount of livestock that they save from predation," says van Bommel.
+
+---
+
+## D
+
+But today's guard dogs also have a new role – **to help preserve the predators**.
+
+It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them.
+
+In Namibia, more than **90% of cheetahs live outside protected areas**, close to humans raising livestock.
+
+As a result, the cheetahs are often held responsible for animal losses, and large numbers have been killed by farmers. **[Q27]**
+
+When guard dogs were introduced, more than **90% of farmers** reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. **[Q32]**
+
+Julie Young, at Utah State University in the US, believes this result applies widely.
+
+> "There is common ground from the livestock perspective and from the conservation perspective," she says.
+
+> "If ranchers don't have a dead cow, they will not make a call to apply for a permit to kill a wolf."
+
+---
+
+## E
+
+Looking at all the published evidence, **[Q33]**
+
+Bethany Smith at Nottingham Trent University in the UK found that **up to 88% of farmers** said they no longer killed predators after using dogs – but warned that such self-reported results must be taken with a **pinch of salt**.
+
+What's more, it is possible that livestock guard dogs merely displace predators to **unprotected neighbouring properties**, where their fate isn't recorded.
+
+> "In some regions, we work with almost every farmer, but in others only one or two have dogs," **[Q34]** says Ribeiro.
+
+> "If we are not working with everybody, we are transferring the wolf pressure to the neighbour's herd and he can use poison and kill an entire pack of wolves."
+
+---
+
+## F
+
+Another concern is whether there may be **unintended ecological effects** of using guard dogs.
+
+Studies suggest that reducing deaths of one type of predator may have a **negative impact on other species**.
+
+The extent of this problem isn't known, but the consequences are clear in Namibia.
+
+Cheetahs aren't the only species that cause sheep and goat losses there: other predators also attack livestock. **[Q37]**
+
+In 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of **jackals killed by dogs and people actually increased**. **[Q38]**
+
+Guard dogs have other ecological impacts too.
+
+They have been found to spread **diseases to wild animals**, including endangered Ethiopian wolves. **[Q39]**
+
+They may also compete with other carnivores for food.
+
+And by creating a **'landscape of fear'**, their mere presence can influence the behaviour of prey animals.
+
+---
+
+## G
+
+The evidence so far, however, indicates that these consequences aren't always negative.
+
+Guard dogs can deliver **unexpected benefits** by protecting vulnerable wildlife from predators. **[Q40]**
+
+For example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them.
+
+Indeed, Australian researchers are now using dogs to **enhance biodiversity** and create refuges for species threatened by predation. **[Q28]**
+
+So if we can get this right, there may be a **bright future for guard dogs** in promoting harmonious coexistence between humans and wildlife.
+
+---
+## Questions 27-31
+
+Reading Passage 3 has seven paragraphs, A-G.
+
+Which paragraph contains the following information?
+
+NB   You may use any letter more than once.
+| Description | A | B | C | D | E | F | G |
+|---|---|---|---|---|---|---|---|
+| an example of how one predator has been protected by the introduction of livestock guard dogs |  |  |  | ✅ |  |  |  |
+| an optimistic suggestion about the possible positive developments in the use of livestock guard dogs |  |  |  |  |  |  | ✅ |
+| a description of how the methods used by livestock guard dogs help to keep predators away |  |  | ❌ |  |  |  |  |
+| claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers’ herds |  |  |  |  |  | ❌ |  |
+| a reference to how livestock guard dogs gain their skills |  | ✅ |  |  |  |  |  |
+
+| Question | Correct | Mine | Result |
+|--------|--------|------|--------|
+| 27 | D | D | ✅ |
+| 28 | G | G | ✅ |
+| 29 | B | C | ❌ |
+| 30 | C | F | ❌ |
+| 31 | B | B | ✅ |
+
+解析
+## Q27
+
+**概述**  
+题干说畜牧护卫犬保护一种捕食动物的例子。
+
+**答案**  
+D
+
+**对应文章**
+
+D段：
+
+> When guard dogs were introduced, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators.
+
+**解题思路**
+
+题目要求寻找“护卫犬保护某种捕食者物种的例子”。  
+
+D段描述了纳米比亚（Namibia）的案例，其中提到了猎豹（cheetahs）。由于猎豹常被认为造成牲畜损失，过去常被农民杀害。但引入护卫犬后，牲畜损失大幅减少，使得农民对捕食者的容忍度提高，不再轻易杀害它们。
+
+因此护卫犬通过减少冲突 **间接保护了捕食者物种**。
+
+**避坑**
+
+E段也提到农民不再杀捕食者（88%），但：
+
+- D段有 **具体物种 cheetahs**
+- 有 **具体地点 Namibia**
+
+因此更符合 **“a species”** 的要求。
+
+---
+
+## Q28
+
+**概述**  
+题干说畜牧护卫犬使用的积极发展。
+
+**答案**  
+G
+
+**对应文章**
+
+G段：
+
+> So if we can get this right, there may be a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife.
+
+**解题思路**
+
+G段讨论护卫犬带来的 **积极影响**：
+
+- unexpected benefits
+- 保护地面筑巢的鸟类
+- 提高 biodiversity
+
+并且提到 **bright future**，对应题干的 **positive developments**。
+
+**避坑**
+
+F段讨论的是：
+
+- ecological concern
+- disease
+- predator deaths
+
+属于 **负面影响**，不是答案。
+
+---
+
+## Q29
+
+**概述**  
+题干问护卫犬如何驱赶 predators。
+
+**答案**  
+B
+
+**对应文章**
+
+B段：
+
+> The dogs will place themselves between the livestock and any threat, barking loudly.  
+> If necessary, they will chase away predators.
+
+**解题思路**
+
+B段描述了护卫犬的 **具体行为机制**：
+
+- 站在牲畜和威胁之间
+- loudly barking
+- chase away predators
+- mere presence
+
+这些行为正是 **驱赶捕食者的方法**。
+
+**避坑**
+
+C段虽然说护卫犬 **effective**，  
+但只是给 **研究数据**，没有描述具体方法。
+
+---
+
+## Q30
+
+**概述**  
+different academics 的 claims。
+
+**答案**  
+C
+
+**对应文章**
+
+C段。
+
+**解题思路**
+
+C段引用多位学者研究：
+
+- Silvia Ribeiro
+- Linda van Bommel
+- Chris Johnson
+
+他们的研究表明：
+
+- 90% farmers rate dogs very good
+- 65% attacks stopped completely
+
+这些 **学术研究数据**说明护卫犬非常成功。
+
+**避坑**
+
+D段只有 **Julie Young** 一位学者。  
+E段只有 **Bethany Smith**。  
+
+只有 **C段同时引用多位学者**。
+
+---
+
+## Q31
+
+**概述**  
+题干问护卫犬如何获得技能。
+
+**答案**  
+B
+
+**对应文章**
+
+B段：
+
+> These dogs are raised from an early age with the animals they will be watching.
+
+**解题思路**
+
+护卫犬的训练方式：
+
+- from an early age
+- 与牲畜一起生活
+- 将牲畜视为 family
+
+牧羊人 Dan Macon 也指出：
+
+> their initial training is to make them understand livestock is their life.
+
+这解释了它们如何形成 **守护技能和认同感**。
+
+**避坑**
+
+文章没有描述：
+
+- command training
+- instruction system
+
+而是强调 **共同成长 + 角色认同**。
+
+---
+
+## Questions 37–40
+**Complete the summary below.**  
+Choose **ONE WORD ONLY** from the passage for each answer.
+
+---
+
+## Unintended ecological effects of using guard dogs
+
+In Namibia, livestock guard dogs have been used to protect domestic animals from attacks by cheetahs.  
+This has led to a rise in the deaths of other predators, particularly **37. jackals**.
+
+In addition, it has been suggested that the dogs could have **38. diseases**, which may affect other species,  
+and that they may reduce the amount of **39. food** available to certain wild animals.
+
+On the other hand, these dogs may help birds by protecting their nests.  
+These might otherwise be threatened by predators such as **40. foxes**.
+
+---
+
+# Correct Answers
+
+| Question | Answer |
+|--------|-------|
+| 37 | jackals |
+| 38 | diseases |
+| 39 | food |
+| 40 | foxes |
+
+---
+
+# My Answers
+
+| Question | My Answer | Result |
+|--------|-----------|--------|
+| 37 | cheetahs | ❌ |
+| 38 | impacts | ❌ |
+| 39 | wolves | ❌ |
+| 40 | foxes | ✅ |
+
+# IELTS Reading Notes  
+## A new role for livestock guard dogs
+
+---
+
+# Questions 37–40
+
+## Q37
+
+### 概述
+题干描述 **Unintended ecological effects**，并提到“其他捕食动物的死亡上升”。
+
+### 答案
+**jackals**
+
+### 对应文章
+F段：
+
+> In 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased.
+
+### 解题思路
+根据关键词 **Unintended ecological effects** 定位到 **F段**。  
+
+文中指出：
+
+- 护卫犬保护了 **cheetahs**
+- 但其他捕食者死亡率上升
+
+具体研究表明：
+
+**jackals killed by dogs and people increased**
+
+因此答案为 **jackals**。
+
+### 避坑
+需要区分：
+
+- **cheetahs → 被保护**
+- **jackals → 死亡数量上升**
+
+题目问的是死亡增加的捕食者。
+
+---
+
+## Q38
+
+### 概述
+题干说护卫犬可能 **affect other species**。
+
+### 答案
+**diseases**
+
+### 对应文章
+F段：
+
+> Guard dogs have other ecological impacts too.  
+> They have been found to spread diseases to wild animals, including endangered Ethiopian wolves.
+
+### 解题思路
+继续在 **F段**寻找负面生态影响。
+
+文章提到：
+
+guard dogs **spread diseases to wild animals**
+
+即护卫犬可能传播 **疾病**。
+
+因此答案为 **diseases**。
+
+### 避坑
+注意同义替换：
+
+| 原文 | 题干 |
+|----|----|
+| spread diseases | affect other species |
+
+填空必须保持 **原文形式** → diseases。
+
+---
+
+## Q39
+
+### 概述
+题干说护卫犬可能 **reduce the amount available to wild animals**。
+
+### 答案
+**food**
+
+### 对应文章
+F段：
+
+> They may also compete with other carnivores for food.
+
+### 解题思路
+F段倒数第二句指出：
+
+guard dogs may **compete with carnivores for food**。
+
+竞争关系意味着：
+
+其他野生动物能获得的 **food** 减少。
+
+因此答案为 **food**。
+
+### 避坑
+识别结构：
+
+**compete with ... for ...**
+
+竞争对象是：
+
+**food**
+
+不要误填 carnivores 或动物名称。
+
+---
+
+## Q40
+
+### 概述
+题干提到 **birds** 和 **nests**。
+
+### 答案
+**foxes**
+
+### 对应文章
+G段：
+
+> For example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes would normally raid them.
+
+### 解题思路
+根据关键词 **birds / nests** 定位到 **G段**。
+
+文章指出：
+
+地面筑巢的鸟通常会被 **foxes** 袭击。
+
+护卫犬通过驱赶狐狸来保护鸟类。
+
+因此答案为 **foxes**。
+
+### 避坑
+注意：
+
+威胁来源是 **foxes**。
+
+填空必须保持 **原文复数形式 foxes**。
+
