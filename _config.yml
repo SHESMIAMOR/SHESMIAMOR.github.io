@@ -2,3 +2,5 @@ title: "SHESMIAMOR IELTS Learning"
 description: "Speaking｜Listening｜Reading｜Writting"
 theme: minima
 permalink: /:categories/:year/:month/:day/:title/
+include:
+  - _picture
