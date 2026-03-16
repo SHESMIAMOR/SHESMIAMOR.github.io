@@ -93,7 +93,7 @@ In boxes 27-30 on your answer sheet, write:
 35. Separate containers are used for individual specimens.
 36. Non-alcoholic preservative should be used.
 
----
+
 
 ### 📝 答案与解析 (Questions 31-36)
 
