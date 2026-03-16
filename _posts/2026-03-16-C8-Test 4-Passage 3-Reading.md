@@ -144,7 +144,7 @@ In boxes 27-30 on your answer sheet, write:
 Choose **no more than two words** from the passage for each answer.
 
 *(Diagram Context: A funnel setup for extracting ants from litter)*
-
+![图3]({{ '/_picture/3.png' | relative_url }})
 37. \_\_\_\_\_\_\_\_\_\_
 38. \_\_\_\_\_\_\_\_\_\_
 39. \_\_\_\_\_\_\_\_\_\_
