@@ -21,11 +21,9 @@ Many ants are small and forage primarily in the layer of leaves and other debris
 The pitfall trap is another commonly used tool for collecting ants. A pitfall trap can be any small container placed in the ground with the top level with the surrounding surface and filled with a preservative. Ants are collected when they fall into the trap while foraging. The diameter of the traps can vary from about 18 mm to 10 cm and the number used can vary from a few to several hundred. The size of the traps used is influenced largely by personal preference(although larger sizes are generally better), while the number will be determined by the study being undertaken `「Q36」` . The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out. `「Q34」` One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention. One disadvantage is that some species are not collected as they either avoid the traps or do not commonly encounter them while foraging.
 
 > 陷阱是另一个常用的收集蚂蚁的工具。陷阱可以是任何一个放在地面上的盛有防腐剂的小容器，容器的顶部应与其周围地表保持水平。当蚂蚁出来觅食时，掉进陷阱就被捉到了。陷阱瓶的直径约为18毫米到10 厘米不等，使用数量也可以是几个到几百个不等。陷阱瓶的大小主要由个人喜好决定(虽然较大的瓶子通常比较好)，但其数量则由正在进行的研究所决定。 `「Q36」` 由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。 `「Q34」` 陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。它的一个缺点是，因为有些物种要么会避开陷阱，要么外出觅食时通常碰不到陷阱，所以用这种方法就采集不到这些蚂蚁。
->
-> 
-好的，这是为您整理好的题目及解析 Markdown 代码。我保持了题目与解析的对应结构，并优化了排版，使其更易于阅读和复习。
 
-```markdown
+
+
 # Questions 27-30
 
 **Do the following statements agree with the information given in Reading Passage 3?**
