@@ -42,7 +42,7 @@ In boxes 27-30 on your answer sheet, write:
 
 ### 📝 答案与解析 (Questions 27-30)
 
-> **Q27: Taxonomic research involves comparing members of one group of ants.**
+> **Q27: Taxonomic research involves comparing members of one group of ants.** ❌
 >
 > *   **正确答案:** TRUE
 > *   **你的答案:** NOT GIVEN
@@ -50,7 +50,7 @@ In boxes 27-30 on your answer sheet, write:
 > *   **对应原文:** *For taxonomy, or classification, long series, from a single nest, which contain all castes... are desirable, to allow the determination of variation within species.*
 > *   **避坑:** 考生可能会纠结于“comparing”这个词在原文中没有直接出现。实际上，文中提到的“确定变异”在科学研究语境下必然涉及到对同一群体内不同成员的对比观察。
 
-> **Q28: New species of ant are frequently identified by taxonomists.**
+> **Q28: New species of ant are frequently identified by taxonomists.** ❌
 >
 > *   **正确答案:** NOT GIVEN
 > *   **你的答案:** FALSE
@@ -95,7 +95,7 @@ In boxes 27-30 on your answer sheet, write:
 
 ### 📝 答案与解析 (Questions 31-36)
 
-> **Q31: It is preferable to take specimens from groups of ants.**
+> **Q31: It is preferable to take specimens from groups of ants.** ❌
 >
 > *   **正确答案:** A
 > *   **你的答案:** B
@@ -154,7 +154,7 @@ Choose **no more than two words** from the passage for each answer.
 
 ### 📝 答案与解析 (Questions 37-40)
 
-> **Q37**
+> **Q37** ❌
 >
 > *   **正确答案:** heat
 > *   **你的答案:** ants
