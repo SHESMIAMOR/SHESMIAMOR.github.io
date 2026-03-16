@@ -140,8 +140,6 @@ In boxes 27-30 on your answer sheet, write:
 > *   **解题思路:** 关键词“non-alcoholic preservative”。定位到最后一段，原文提到陷阱法（pitfall trap）通常使用“ethylene glycol or propylene glycol”，因为“alcohol will evaporate quickly”（酒精易挥发）。
 > *   **对应原文:** *The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly...*
 
----
-
 # Questions 37-40
 
 **Label the diagram below.**
@@ -187,4 +185,3 @@ Choose **no more than two words** from the passage for each answer.
 > *   **解题思路:** 图示指向漏斗下方收集容器里的液体。原文提到蚂蚁最终掉落并“collected in alcohol placed below the funnel”。
 > *   **对应原文:** *...collected in alcohol placed below the funnel.*
 > *   **避坑:** 需锁定第四段的漏斗法，不要混淆第五段陷阱法中使用的防腐剂。
-```
