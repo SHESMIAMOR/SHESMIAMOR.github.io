@@ -21,3 +21,170 @@ Many ants are small and forage primarily in the layer of leaves and other debris
 The pitfall trap is another commonly used tool for collecting ants. A pitfall trap can be any small container placed in the ground with the top level with the surrounding surface and filled with a preservative. Ants are collected when they fall into the trap while foraging. The diameter of the traps can vary from about 18 mm to 10 cm and the number used can vary from a few to several hundred. The size of the traps used is influenced largely by personal preference(although larger sizes are generally better), while the number will be determined by the study being undertaken `「Q36」` . The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly and the traps will dry out. `「Q34」` One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention. One disadvantage is that some species are not collected as they either avoid the traps or do not commonly encounter them while foraging.
 
 > 陷阱是另一个常用的收集蚂蚁的工具。陷阱可以是任何一个放在地面上的盛有防腐剂的小容器，容器的顶部应与其周围地表保持水平。当蚂蚁出来觅食时，掉进陷阱就被捉到了。陷阱瓶的直径约为18毫米到10 厘米不等，使用数量也可以是几个到几百个不等。陷阱瓶的大小主要由个人喜好决定(虽然较大的瓶子通常比较好)，但其数量则由正在进行的研究所决定。 `「Q36」` 由于酒精易挥发，瓶子很快就会干了，所以我们使用的防腐剂通常是乙二醇或丙二醇。 `「Q34」` 陷阱采集法的一个优势在于，仅仅需要极少的维护和干预，它们就能够持续使用一段时间。它的一个缺点是，因为有些物种要么会避开陷阱，要么外出觅食时通常碰不到陷阱，所以用这种方法就采集不到这些蚂蚁。
+>
+> 
+好的，这是为您整理好的题目及解析 Markdown 代码。我保持了题目与解析的对应结构，并优化了排版，使其更易于阅读和复习。
+
+```markdown
+# Questions 27-30
+
+**Do the following statements agree with the information given in Reading Passage 3?**
+
+In boxes 27-30 on your answer sheet, write:
+*   **TRUE** if the statement agrees with the information
+*   **FALSE** if the statement contradicts the information
+*   **NOT GIVEN** if there is no information on this
+
+27. Taxonomic research involves comparing members of one group of ants.
+28. New species of ant are frequently identified by taxonomists.
+29. Range is the key criterion for ecological collections.
+30. A single collection of ants can generally be used for both taxonomic and ecological purposes.
+
+---
+
+### 📝 答案与解析 (Questions 27-30)
+
+> **Q27: Taxonomic research involves comparing members of one group of ants.**
+>
+> *   **正确答案:** TRUE
+> *   **你的答案:** NOT GIVEN
+> *   **解题思路:** 根据原文第一段，分类学（taxonomy）研究理想的情况是从“单个蚁巢（a single nest）”中获取包含所有阶级（all castes）的系列样本，以便确定物种内部的变异。题干中的“one group of ants”对应文中的“a single nest”，“involve”对应“contain”，“members”对应“castes”，而“comparing members”则对应文中通过观察不同阶级来“determination of variation（确定变异）”的过程。信息一一相符，逻辑一致，故判断为TRUE。
+> *   **对应原文:** *For taxonomy, or classification, long series, from a single nest, which contain all castes... are desirable, to allow the determination of variation within species.*
+> *   **避坑:** 考生可能会纠结于“comparing”这个词在原文中没有直接出现。实际上，文中提到的“确定变异”在科学研究语境下必然涉及到对同一群体内不同成员的对比观察。
+
+> **Q28: New species of ant are frequently identified by taxonomists.**
+>
+> *   **正确答案:** NOT GIVEN
+> *   **你的答案:** FALSE
+> *   **解题思路:** 原文第一段提到了分类学者（taxonomist）的研究目的和方法，以及他们可能会忽视整个物种。但纵观全文，并没有任何信息提及分类学者发现蚂蚁新物种的“频率（frequently）”或者是他们是否经常鉴定出新物种。文中缺乏关于“发现频率”的描述，属于无中生有。
+> *   **避坑:** 不要根据常识进行推断。虽然分类学者的工作包含鉴定新物种，但雅思阅读要求“完全依据原文”。原文未涉及新物种发现的频率。
+
+> **Q29: Range is the key criterion for ecological collections.**
+>
+> *   **正确答案:** TRUE
+> *   **你的答案:** TRUE
+> *   **解题思路:** 定位到原文第一段第四句。文中指出，对于生态学研究（ecological studies），“最重要的因素（the most important factor）”是收集尽可能多的不同物种的样本。题干中的“key criterion”对应文中的“most important factor”，而“range（范围/多样性）”对应“as many of the different species as possible”，信息完全吻合。
+> *   **对应原文:** *For ecological studies, the most important factor is collecting identifiable samples of as many of the different species present as possible.*
+> *   **避坑:** 注意关键词的同义替换（the most important -> key criterion）。
+
+> **Q30: A single collection of ants can generally be used for both taxonomic and ecological purposes.**
+>
+> *   **正确答案:** FALSE
+> *   **你的答案:** FALSE
+> *   **解题思路:** 原文第一段明确提到分类学和生态学这两种方法“并不总是兼容的（these methods are not always compatible）”。分类学家为了研究特定群体会忽视整个物种，而生态学家收集的样本数量有限，降低了其分类学价值。题干说单次收集“通常可以同时用于”两个目的，与原文直接矛盾。
+> *   **对应原文:** *Unfortunately, these methods are not always compatible.*
+> *   **避坑:** 题干中的“generally”表示普遍情况，而原文强调了它们之间的冲突（not always compatible），构成了反驳。
+
+---
+
+# Questions 31-36
+
+**Classify the following statements as referring to:**
+
+*   **A** hand collecting
+*   **B** using bait
+*   **C** sampling ground litter
+*   **D** using a pitfall trap
+
+31. It is preferable to take specimens from groups of ants.
+32. It is particularly effective for wet habitats.
+33. It is a good method for species which are hard to find.
+34. Little time and effort is required.
+35. Separate containers are used for individual specimens.
+36. Non-alcoholic preservative should be used.
+
+---
+
+### 📝 答案与解析 (Questions 31-36)
+
+> **Q31: It is preferable to take specimens from groups of ants.**
+>
+> *   **正确答案:** A
+> *   **你的答案:** B
+> *   **解题思路:** 根据“groups of ants”定位到第二段。原文提到“When possible, collections should be made from nests or foraging columns...”。这说明人工收集（Hand collecting）时，应尽可能从蚁巢或觅食队伍中成群采集。
+> *   **避坑:** 不要将此与诱饵法（Baits）混淆，诱饵法虽能聚集蚂蚁，但原文明确将从“nests or foraging columns”采集归类在人工采集的描述中。
+
+> **Q32: It is particularly effective for wet habitats.**
+>
+> *   **正确答案:** C
+> *   **你的答案:** C
+> *   **解题思路:** 关键词“wet habitats”。定位至第四段关于“sampling ground litter”的描述，原文明确指出“This method works especially well in rain forests and marshy areas”（这种方法在热带雨林和沼泽地区特别有效）。
+> *   **避坑:** 识别“rain forests and marshy areas”是“wet habitats”的同义替换。
+
+> **Q33: It is a good method for species which are hard to find.**
+>
+> *   **正确答案:** B
+> *   **你的答案:** B
+> *   **解题思路:** 关键词“hard to find”。定位到第三段关于“Baits”的部分，原文指出使用诱饵“attracts species that are otherwise elusive”（吸引那些否则难以捕捉的物种）。
+> *   **对应原文:** *This often increases the number of individuals collected and attracts species that are otherwise elusive.*
+
+> **Q34: Little time and effort is required.**
+>
+> *   **正确答案:** D
+> *   **你的答案:** D
+> *   **解题思路:** 关键词“Little time and effort”。定位到最后一段，原文提到 pitfall traps 的优点是“minimal maintenance and intervention”（极少的维护和干预）。
+> *   **对应原文:** *One advantage of pitfall traps is that they can be used to collect over a period of time with minimal maintenance and intervention.*
+
+> **Q35: Separate containers are used for individual specimens.**
+>
+> *   **正确答案:** A
+> *   **你的答案:** A
+> *   **解题思路:** 关键词“separate containers”和“individual specimens”。定位到第二段倒数第2句，描述“hand collecting”时提到：“Individual insects are placed in plastic or glass tubes...”。
+> *   **对应原文:** *Individual insects are placed in plastic or glass tubes...*
+> *   **避坑:** 注意区分不同方法使用的容器，这里特指存放个体样本的管子。
+
+> **Q36: Non-alcoholic preservative should be used.**
+>
+> *   **正确答案:** D
+> *   **你的答案:** D
+> *   **解题思路:** 关键词“non-alcoholic preservative”。定位到最后一段，原文提到陷阱法（pitfall trap）通常使用“ethylene glycol or propylene glycol”，因为“alcohol will evaporate quickly”（酒精易挥发）。
+> *   **对应原文:** *The preservative used is usually ethylene glycol or propylene glycol, as alcohol will evaporate quickly...*
+
+---
+
+# Questions 37-40
+
+**Label the diagram below.**
+Choose **no more than two words** from the passage for each answer.
+
+*(Diagram Context: A funnel setup for extracting ants from litter)*
+
+37. \_\_\_\_\_\_\_\_\_\_
+38. \_\_\_\_\_\_\_\_\_\_
+39. \_\_\_\_\_\_\_\_\_\_
+40. \_\_\_\_\_\_\_\_\_\_
+
+---
+
+### 📝 答案与解析 (Questions 37-40)
+
+> **Q37**
+>
+> *   **正确答案:** heat
+> *   **你的答案:** ants
+> *   **解题思路:** 图示指向装置最上方的热源。文中第四段提到将落叶放在漏斗上方的筛网上，且通常置于“some heat”之下。热量迫使蚂蚁向下移动。
+> *   **对应原文:** *...often under some heat.*
+> *   **避坑:** 需严格遵守字数限制且取自原文。虽然图示位置在上方，但具体指代词是“heat”。
+
+> **Q38**
+>
+> *   **正确答案:** leaf litter
+> *   **你的答案:** leaf litter
+> *   **解题思路:** 图示指向筛网上的堆积物（树叶）。文章第四段明确指出是将“leaf litter”放在筛网上。
+> *   **对应原文:** *...placing leaf litter on a screen...*
+
+> **Q39**
+>
+> *   **正确答案:** screen
+> *   **你的答案:** screen
+> *   **解题思路:** 图示指向支撑落叶层的网状平面。原文第四段说明是“placing leaf litter on a screen over a large funnel”。
+> *   **避坑:** 不要与下方的漏斗（funnel）混淆，注意介词“on”的关系。
+
+> **Q40**
+>
+> *   **正确答案:** alcohol
+> *   **你的答案:** alcohol
+> *   **解题思路:** 图示指向漏斗下方收集容器里的液体。原文提到蚂蚁最终掉落并“collected in alcohol placed below the funnel”。
+> *   **对应原文:** *...collected in alcohol placed below the funnel.*
+> *   **避坑:** 需锁定第四段的漏斗法，不要混淆第五段陷阱法中使用的防腐剂。
+```
